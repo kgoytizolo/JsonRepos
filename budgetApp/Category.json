@@ -1,0 +1,6 @@
+[{"Category":{"CategoryId":1,"CategoryName":"Vegetables","CategoryDescription":"Vegetables for all","CategoryImageUrl":"/veggies.jpg","CategoryCreationDate":"01.05.2021 12:45:66","CategoryUpdateDate":""}},
+{"Category":{"CategoryId":2,"CategoryName":"Fruits","CategoryDescription":"Fruits for all","CategoryImageUrl":"/fruits.jpg","CategoryCreationDate":"01.05.2021 12:45:66","CategoryUpdateDate":""}},
+{"Category":{"CategoryId":3,"CategoryName":"Poultry","CategoryDescription":"Chicken, Turkey and others","CategoryImageUrl":"/poultry.jpg","CategoryCreationDate":"01.05.2021 12:45:66","CategoryUpdateDate":""}},
+{"Category":{"CategoryId":4,"CategoryName":"Beef","CategoryDescription":"The best beef ever!","CategoryImageUrl":"/beef.jpg","CategoryCreationDate":"01.05.2021 12:45:66","CategoryUpdateDate":""}},
+{"Category":{"CategoryId":5,"CategoryName":"Cleaning","CategoryDescription":"To clean your house","CategoryImageUrl":"/cleaning.jpg","CategoryCreationDate":"01.05.2021 12:45:66","CategoryUpdateDate":""}}
+]

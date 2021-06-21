@@ -1,0 +1,11 @@
+[{"Product":{"ProductId":1,"ProductName":"Broccoli","ProductDescription":"","ProductImageUrl":"/broccoli.jpg","Category":{"CategoryId":1,"CategoryName":"Vegetables"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":2,"ProductName":"Spinach","ProductDescription":"","ProductImageUrl":"/spinach.jpg","Category":{"CategoryId":1,"CategoryName":"Vegetables"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":3,"ProductName":"Banana","ProductDescription":"","ProductImageUrl":"/banana.jpg","Category":{"CategoryId":2,"CategoryName":"Fruits"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":4,"ProductName":"Apple","ProductDescription":"","ProductImageUrl":"/apple.jpg","Category":{"CategoryId":2,"CategoryName":"Fruits"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":5,"ProductName":"Chicken","ProductDescription":"","ProductImageUrl":"/chicken.jpg","Category":{"CategoryId":3,"CategoryName":"Poultry"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":6,"ProductName":"Turkey","ProductDescription":"","ProductImageUrl":"/turkey.jpg","Category":{"CategoryId":3,"CategoryName":"Poultry"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":7,"ProductName":"Cow","ProductDescription":"","ProductImageUrl":"/cow.jpg","Category":{"CategoryId":4,"CategoryName":"Beef"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":8,"ProductName":"Lamb","ProductDescription":"","ProductImageUrl":"/lamb.jpg","Category":{"CategoryId":4,"CategoryName":"Beef"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":9,"ProductName":"Detergent for dishwasher","ProductDescription":"/detergent1.jpg","ProductImageUrl":"","Category":{"CategoryId":5,"CategoryName":"Cleaning"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}},
+{"Product":{"ProductId":10,"ProductName":"Detergent for washing machine","ProductDescription":"/detergent2.jpg","ProductImageUrl":"","Category":{"CategoryId":5,"CategoryName":"Cleaning"},"ProductCreationDate":"01.05.2021 12:45:66","ProductUpdateDate":""}}
+]
